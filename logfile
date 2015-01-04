@@ -1,0 +1,4 @@
+LOG:  database system was shut down at 2015-01-03 20:45:01 CST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+FATAL:  database "jqmoblog_development" does not exist
